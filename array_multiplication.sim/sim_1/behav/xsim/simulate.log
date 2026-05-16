@@ -1,0 +1,5 @@
+Time resolution is 1 ps
+result:   38454
+expected: 38454
+PASS
+$finish called at time : 86 ns : File "D:/RISC-V/array_multiplication/array_multiplication.srcs/sources_1/new/tb_array_multiplication.sv" Line 41
