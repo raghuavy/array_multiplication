@@ -1,0 +1,4 @@
+# Keep generated Vivado outputs out of language statistics and default diffs.
+# Authored RTL, testbenches, constraints, and project configuration stay visible.
+array_multiplication.runs/** linguist-generated=true
+array_multiplication.sim/** linguist-generated=true
